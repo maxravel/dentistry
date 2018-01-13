@@ -1,0 +1,50 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#sec1{
+    height:100vh;
+    background:url(/img/gabinet.jpg) no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
+}
+
+a{
+    text-decoration:none;
+    padding:10px;
+    margin:10px;
+    color: rgb(53, 14, 14);
+    font-weight:bold;   
+}
+
+.menu{
+    list-style: none;
+    display:flex;
+    justify-content:flex-end;
+    background:rgb(152, 163, 0);
+}
+
+/* .menu.change{
+    list-style: none;
+    display:flex;
+    justify-content:flex-end;
+    background:rgb(152, 163, 0, 0.5);
+} */
+
+.header{
+
+}
+
+h1{
+    text-align:center;
+    padding-top:35vh;
+    color: rgb(53, 14, 14);
+    font-size:10vh;
+}
+
+#sec2{
+    height:100vh;
+}
+
